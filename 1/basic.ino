@@ -1,5 +1,5 @@
-int green = 12;
-int yellow = 10;
+int green = 11;
+int yellow = 9;
 int red = 8;
 
 void setup() {
